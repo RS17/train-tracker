@@ -7,7 +7,7 @@ This will not work out of the box and requires some minimal database setup.  Con
 
 Created by:
 
-Ravi Suri
+Ravi Suri  
 rsuriprog@gmail.com
 
 MIT License
