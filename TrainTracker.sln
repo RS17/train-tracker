@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Logic", "..\..\trainwang\Logic\Logic.fsproj", "{F52A99DE-8D10-4A05-A475-D9D8B4CA945A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainTracker", "TrainTracker\TrainTracker.csproj", "{1CCA9E4D-991B-4036-88FC-2FD2F0357D92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainTracker", "..\..\trainwang\TrainWang\TrainTracker.csproj", "{1CCA9E4D-991B-4036-88FC-2FD2F0357D92}"
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Logic", "Logic\Logic.fsproj", "{F52A99DE-8D10-4A05-A475-D9D8B4CA945A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWAPI", "..\..\trainwang\TWAPI\TWAPI.csproj", "{C79594E0-8FD1-4F14-AC2F-3D143363A009}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWAPI", "TWAPI\TWAPI.csproj", "{C79594E0-8FD1-4F14-AC2F-3D143363A009}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

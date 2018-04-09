@@ -2,11 +2,9 @@
 
 namespace TrainTracker
 {
-	public class MyClass
+	public enum Constants : int
 	{
-		public MyClass ()
-		{
-		}
+		propertyname
 	}
 }
 
